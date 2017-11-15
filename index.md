@@ -1,9 +1,9 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Shannan Muench's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Shannan Muench
+Full-Stack Web Developer | Project Manager
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
@@ -11,81 +11,103 @@ Physicist, Mathematician, Cambridge professor.
 </div>
 
 
-## Currently
+## CORE COMPETENCIES ##
 
-Standing on the shoulders of giants
+Strategic Business Planning ▪ Project Management ▪ Project Turnaround ▪ Business Development ▪ Budgeting ▪ Operational Leadership ▪ Cost Projections ▪ Financial Forecasting ▪ Process Improvement ▪ Startups ▪ Branding & Rebranding ▪ Internal Communications ▪ Product Launches ▪ In-Bound Marketing ▪ Business & Technical Writing ▪ Technical Training ▪ Digital Marketing ▪ P&L ▪ Agile ▪ LEAN
+###Technical Skills:### MS Office ▪ HTML ▪ CSS ▪ Javascript ▪ jQuery ▪ Ruby ▪ Ruby on Rails ▪ Python ▪ GitHub ▪ Bootstrap ▪ MaterializeCSS ▪ Trello 
+###Languages:### Russian & English
 
-### Specialized in
+### WEB DEVELOPMENT & CONSULTING ###
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+###Social Media Marketing Director/Owner,### Lasting Impressions Marketing, LLC ▪ Weston, FL (2014–Present)
+Conduct analysis and research to identify competition, trends, and opportunities for clients in diversity of industries. Develop social media campaigns and strategies congruent with clients' goals. Spearhead content production, branding, and customer engagement.
 
+####Website Development:#### Designed, programmed and launched websites and web applications for small business owner customers using Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, JQuery software programming languages and frameworks.
 
-### Research interests
+####Digital Campaigns:#### Created 5 websites using commercial platform and strategically integrated social media platforms to develop client brand and improve SEO. Raised $5K for local non-profits by positioning unique content on a variety of social media.
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+####Marketing & Product Development:#### Partnered with MBA professor on online course creation from conception to launch using Kajabi. Produced video elements and marketing plan to target business professionals, entrepreneurs, and transitioning military personnel who want to better understand P&L, cash flow, and profitability.
 
+####Consumer Engagement:#### Utilized interviewing to analyze unique business structure and needs as well as develop inbound marketing strategy. Created scripts, video, and launched video campaigns via YouTube, websites, and other social media outlets.
 
-## Education
+####Business Consulting:#### Established comprehensive go-to-market strategies for 8 small businesses. Provided basic legal guidance regarding business filings and utilized market research to assist in unique and targeted brand development.
 
-`1654-1660`
-__The King's School, Grantham.__
+###Board of Directors,### Capistrano by the Square ▪ Weston, FL (2006–Present)
+Served in every role from President, VP, Secretary, and Treasurer to lead operational management of 47-unit condo community.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+####Financial Analysis:#### Uncovered errors contributing to economic death spiral of organization. Developed new, more accurate reserve budget plan forecasted to 2050 that can be used to properly advise BOD on setting assessments and scheduling maintenance.
 
-- Sizar
+####Budget Management:#### Conducted research into management of Reserve and Operating fund. Uncovered inconsistencies and lobbied for corrections. Developed new budgeting practices now adopted to accurately reflect actual expenses and balances.
 
-`1667 - death`
-__Trinity College, Cambridge__
+####Fiscal Leadership:#### Saved $3K in water expenses in 1 QTR, and $12K annually by creating new monthly financial reports that included proactive analysis that ultimately led to identification of water issue. Pioneered new proactive approach to facilities management.
 
-- Fellow
+####Conflict Resolution & Legal Research:#### Saved $50K over 10 years after conducting research that led to discovery of improper spending. Educated residents, BOD, and Management Company. Mediated and reduced member complaints.
 
+### PROGRAM ADMINISTRATION & OPERATIONS MANAGEMENT ###
 
+###First Sergeant/Russian Cryptologic Linguist,### U.S. Army Reserve ▪ Weston, FL (2015–Present)
+Recruited to reorganize and lead 144-person intelligence organization to take on an innovative mission within the Department of Defense. Collaborate with stakeholders in multiple departments to improve inefficiencies and facilitate restructuring efforts. 
 
-## Awards
+####Operational Leadership:#### Improved individual and organizational effectiveness from 35%–87% after launching new training initiative.
 
-`2012`
-President, *Royal Society*, London, UK
+####Process Streamlining:#### Reduced missed deadlines from 83% to 0% within 30 days by overhauling shared resource tracking process.
 
-Associate, *French Academy of Science*, Paris, France
+####Accountability:#### Spearheaded initiative to complete backlog of 80+ employee evaluations, reducing number to 0 in 90 days. 
 
+###Content Manager,### Thermopylae Sciences + Technology (TST), LLC ▪ Doral, FL (2012–2013)
+Supported the development and training program for classified and unclassified SharePoint portals and websites for contract directly supporting the U.S. Southern Command, a DoD organization. Supported senior staff on initiating business development activities, writing requests for proposals, and managing content development for company website.
 
+####Process Improvement:#### Developed a SharePoint portal for 6+ agencies that reduced reporting lag from 1 week to 1 day. Completion allowed for streamlined report tracing, improved communications, and established new standard for reporting.
 
-## Publications
+####Project Leadership:#### Established project management process and timeline to lead transition to new website. Project involved coordination with web developers, staff, and content contributors. Transition completed on time with no miscommunication.
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+####Business Expansion:#### Authored technical and managerial sections in federal government contract proposals and contacted potential business leads to develop opportunities for the company.
 
-### Journals
+####Internal Communications:#### Increased productivity and teamwork by liaising with external federal organizations to establish methods and procedures for sharing information.
 
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
+###Program Manager,### Department of the Army Headquarters, The Pentagon ▪ Washington, DC (2012–2013)
+Tasked with creating development program for military personnel, which supports the U.S. Army's Regionally Aligned Forces Plan for future organizational structures and international partnership opportunities.
 
-`1669`
-Lectiones opticæ.
+####Research & Stakeholder Support:#### Authored white paper, plan, and cost-benefit analysis outlining program development plan. 
 
-etc. etc. etc.
+####Strategic Planning:#### Developed training and recruiting plan to support 3 Combatant Commands to maximize training ROI and minimize vacancies for 6-9, 3-year rotational staff positions. 
 
-### Patents
+###Program Manager,### Command Language Program (CLP), Circinus, LLC ▪ Fort Meade, MD (2009–2011)
+Recruited to improve the 704th Military Intelligence Brigade’s CLP, comprised of 200+ linguists proficient in 13+ foreign languages supporting intelligence operations for the U.S. Army and DoD at the National Security Agency (NSA). Led team of 6, wrote Standard Operating Procedures, managed $300K budget as well as composed and analyzed monthly financial reports.
 
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+####Turnaround Success:#### Transformed worst language program into best out of more than 50 globally-based programs and won recognition as DoD Command Language Program of the Year (2011)—the highest award possible in the DoD. 
 
+####Project Efficiency:#### Utilized account tracking files to keep real-time budget status. Improved ROI by decreasing cost per person to train while still increasing overall language proficiency.
 
-## Occupation
+####Administrative Efficiency:####  Overhauled systems to streamline action in multiple areas. Training enrollments decreased from 12 to 3 weeks, bonus payment processing decreased from 15 weeks to <30 days, and test scheduling decreased from 3 weeks to 1.
 
-`1600`
-__Royal Mint__, London
+###Russian Cryptologic Linguist/Intelligence Analyst,### U.S. Army ▪ Multiple Foreign Locations (2000–2009)
+Served as a Russian linguist and intelligence analyst in support of national and theater-level operations for the U.S. Army. Performed in leadership and management positions from Team Leader to Platoon Sergeant managing operations, administrative matters, training, and morale for groups ranging in size from 5-47 personnel. 
 
-- Warden
-- Minted coins
+####Communication & Support:#### Interpreted for general officers during two separate U.S. / Russian Joint Training Exercises in Germany and Russia (2005). Provided real-time, tactical intelligence support to combat operations while deployed to Iraq (May 2003-July 2004).
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Education ##
 
+`2016`
+__Masters of Business Administration,__ The University of Miami, Miami, FL
 
+`2011`
+__Masters in International Enterprise Management,__ The University of Maryland University College, Adelphi, MD
+
+`1997`
+__Bachelor of Arts:__ International Studies, Concentrations: Russian, Economics, Norwich University, Northfield, VT
+
+'2009'
+__Associate of Arts:__ Russian Language and History, The Defense Language Institute Foreign Language Center, Monterey, CA
+
+'2017'
+__10-Week Web Development Course:__ Full-Stack Web Developer, Wyncode Academy, Miami, FL
+
+'2017'
+__6-Week Introduction to Python Course:__ Junior Python Developer, RMOTR.com
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: November 2017 -->
 
 
