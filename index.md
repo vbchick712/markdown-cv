@@ -14,17 +14,17 @@ Full-Stack Web Developer | Project Manager
 ## CORE COMPETENCIES ##
 
 Strategic Business Planning ▪ Project Management ▪ Project Turnaround ▪ Business Development ▪ Budgeting ▪ Operational Leadership ▪ Cost Projections ▪ Financial Forecasting ▪ Process Improvement ▪ Startups ▪ Branding & Rebranding ▪ Internal Communications ▪ Product Launches ▪ In-Bound Marketing ▪ Business & Technical Writing ▪ Technical Training ▪ Digital Marketing ▪ P&L ▪ Agile ▪ LEAN
-###Technical Skills:### MS Office ▪ HTML ▪ CSS ▪ Javascript ▪ jQuery ▪ Ruby ▪ Ruby on Rails ▪ Python ▪ GitHub ▪ Bootstrap ▪ MaterializeCSS ▪ Trello 
-###Languages:### Russian & English
+### Technical Skills: ### MS Office ▪ HTML ▪ CSS ▪ Javascript ▪ jQuery ▪ Ruby ▪ Ruby on Rails ▪ Python ▪ GitHub ▪ Bootstrap ▪ MaterializeCSS ▪ Trello 
+### Languages: ### Russian & English
 
 ### WEB DEVELOPMENT & CONSULTING ###
 
-###Social Media Marketing Director/Owner,### Lasting Impressions Marketing, LLC ▪ Weston, FL (2014–Present)
+### Social Media Marketing Director/Owner, ### Lasting Impressions Marketing, LLC ▪ Weston, FL (2014–Present)
 Conduct analysis and research to identify competition, trends, and opportunities for clients in diversity of industries. Develop social media campaigns and strategies congruent with clients' goals. Spearhead content production, branding, and customer engagement.
 
-####Website Development:#### Designed, programmed and launched websites and web applications for small business owner customers using Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, JQuery software programming languages and frameworks.
+#### Website Development: #### Designed, programmed and launched websites and web applications for small business owner customers using Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, JQuery software programming languages and frameworks.
 
-####Digital Campaigns:#### Created 5 websites using commercial platform and strategically integrated social media platforms to develop client brand and improve SEO. Raised $5K for local non-profits by positioning unique content on a variety of social media.
+#### Digital Campaigns: #### Created 5 websites using commercial platform and strategically integrated social media platforms to develop client brand and improve SEO. Raised $5K for local non-profits by positioning unique content on a variety of social media.
 
 ####Marketing & Product Development:#### Partnered with MBA professor on online course creation from conception to launch using Kajabi. Produced video elements and marketing plan to target business professionals, entrepreneurs, and transitioning military personnel who want to better understand P&L, cash flow, and profitability.
 
@@ -97,13 +97,13 @@ __Masters in International Enterprise Management,__ The University of Maryland U
 `1997`
 __Bachelor of Arts:__ International Studies, Concentrations: Russian, Economics, Norwich University, Northfield, VT
 
-'2009'
+`2009`
 __Associate of Arts:__ Russian Language and History, The Defense Language Institute Foreign Language Center, Monterey, CA
 
-'2017'
+`2017`
 __10-Week Web Development Course:__ Full-Stack Web Developer, Wyncode Academy, Miami, FL
 
-'2017'
+`2017`
 __6-Week Introduction to Python Course:__ Junior Python Developer, RMOTR.com
 
 <!-- ### Footer
