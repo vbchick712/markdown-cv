@@ -6,7 +6,7 @@ title: Shannan Muench's CV
 Full-Stack Web Developer | Project Manager
 
 <div id="webaddress">
-  Weston, FL | <a href="shannan.muench@gmail.com">shannan.muench@gmail.com</a> | 443-878-4699 | <a href="https://www.linkedin.com/in/shannanmuench/">linkedin.com/in/shannanmuench</a> | <a href="https://github.com/vbchick712/">github.com/vbchick</a>
+  Weston, FL | [email me](mailto:shannan.muench@gmail.com) | 443-878-4699 | <a href="https://www.linkedin.com/in/shannanmuench/">linkedin.com/in/shannanmuench</a> | <a href="https://github.com/vbchick712/">github.com/vbchick</a>
 </div>
 
 
