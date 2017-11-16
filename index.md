@@ -21,69 +21,69 @@ __Languages:__ Russian & English
 __Social Media Marketing Director/Owner,__ Lasting Impressions Marketing, LLC ▪ Weston, FL (2014–Present)
 Conduct analysis and research to identify competition, trends, and opportunities for clients in diversity of industries. Develop social media campaigns and strategies congruent with clients' goals. Spearhead content production, branding, and customer engagement.
 
-* Website Development: * Designed, programmed and launched websites and web applications for small business owner customers using Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, JQuery software programming languages and frameworks.
+* __Website Development:__ Designed, programmed and launched websites and web applications for small business owner customers using Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, JQuery software programming languages and frameworks.
 
-    __Digital Campaigns:__ Created 5 websites using commercial platform and strategically integrated social media platforms to develop client brand and improve SEO. Raised $5K for local non-profits by positioning unique content on a variety of social media.
+* __Digital Campaigns:__ Created 5 websites using commercial platform and strategically integrated social media platforms to develop client brand and improve SEO. Raised $5K for local non-profits by positioning unique content on a variety of social media.
 
-    __Marketing & Product Development:__ Partnered with MBA professor on online course creation from conception to launch using Kajabi. Produced video elements and marketing plan to target business professionals, entrepreneurs, and transitioning military personnel who want to better understand P&L, cash flow, and profitability.
+* __Marketing & Product Development:__ Partnered with MBA professor on online course creation from conception to launch using Kajabi. Produced video elements and marketing plan to target business professionals, entrepreneurs, and transitioning military personnel who want to better understand P&L, cash flow, and profitability.
 
-    __Consumer Engagement:__ Utilized interviewing to analyze unique business structure and needs as well as develop inbound marketing strategy. Created scripts, video, and launched video campaigns via YouTube, websites, and other social media outlets.
+* __Consumer Engagement:__ Utilized interviewing to analyze unique business structure and needs as well as develop inbound marketing strategy. Created scripts, video, and launched video campaigns via YouTube, websites, and other social media outlets.
 
-    __Business Consulting:__ Established comprehensive go-to-market strategies for 8 small businesses. Provided basic legal guidance regarding business filings and utilized market research to assist in unique and targeted brand development.
+* __Business Consulting:__ Established comprehensive go-to-market strategies for 8 small businesses. Provided basic legal guidance regarding business filings and utilized market research to assist in unique and targeted brand development.
 
 __Board of Directors,__ Capistrano by the Square ▪ Weston, FL (2006–Present)
 Served in every role from President, VP, Secretary, and Treasurer to lead operational management of 47-unit condo community.
 
-    __Financial Analysis:__ Uncovered errors contributing to economic death spiral of organization. Developed new, more accurate reserve budget plan forecasted to 2050 that can be used to properly advise BOD on setting assessments and scheduling maintenance.
+* __Financial Analysis:__ Uncovered errors contributing to economic death spiral of organization. Developed new, more accurate reserve budget plan forecasted to 2050 that can be used to properly advise BOD on setting assessments and scheduling maintenance.
 
-    __Budget Management:__ Conducted research into management of Reserve and Operating fund. Uncovered inconsistencies and lobbied for corrections. Developed new budgeting practices now adopted to accurately reflect actual expenses and balances.
+* __Budget Management:__ Conducted research into management of Reserve and Operating fund. Uncovered inconsistencies and lobbied for corrections. Developed new budgeting practices now adopted to accurately reflect actual expenses and balances.
 
-    __Fiscal Leadership:__ Saved $3K in water expenses in 1 QTR, and $12K annually by creating new monthly financial reports that included proactive analysis that ultimately led to identification of water issue. Pioneered new proactive approach to facilities management.
+* __Fiscal Leadership:__ Saved $3K in water expenses in 1 QTR, and $12K annually by creating new monthly financial reports that included proactive analysis that ultimately led to identification of water issue. Pioneered new proactive approach to facilities management.
 
-    __Conflict Resolution & Legal Research:__ Saved $50K over 10 years after conducting research that led to discovery of improper spending. Educated residents, BOD, and Management Company. Mediated and reduced member complaints.
+* __Conflict Resolution & Legal Research:__ Saved $50K over 10 years after conducting research that led to discovery of improper spending. Educated residents, BOD, and Management Company. Mediated and reduced member complaints.
 
 ## PROGRAM ADMINISTRATION & OPERATIONS MANAGEMENT ##
 
 __First Sergeant/Russian Cryptologic Linguist,__ U.S. Army Reserve ▪ Weston, FL (2015–Present)
 Recruited to reorganize and lead 144-person intelligence organization to take on an innovative mission within the Department of Defense. Collaborate with stakeholders in multiple departments to improve inefficiencies and facilitate restructuring efforts. 
 
-    __Operational Leadership:__ Improved individual and organizational effectiveness from 35%–87% after launching new training initiative.
+* __Operational Leadership:__ Improved individual and organizational effectiveness from 35%–87% after launching new training initiative.
 
-    __Process Streamlining:__ Reduced missed deadlines from 83% to 0% within 30 days by overhauling shared resource tracking process.
+* __Process Streamlining:__ Reduced missed deadlines from 83% to 0% within 30 days by overhauling shared resource tracking process.
 
-    __Accountability:__ Spearheaded initiative to complete backlog of 80+ employee evaluations, reducing number to 0 in 90 days and maintained a zero late evaluation status for the duration of the postion. 
+* __Accountability:__ Spearheaded initiative to complete backlog of 80+ employee evaluations, reducing number to 0 in 90 days and maintained a zero late evaluation status for the duration of the postion. 
 
 __Content Manager,__ Thermopylae Sciences + Technology (TST), LLC ▪ Doral, FL (2012–2013)
 Supported the development and training program for classified and unclassified SharePoint portals and websites for contract directly supporting the U.S. Southern Command, a DoD organization. Supported senior staff on initiating business development activities, writing requests for proposals, and managing content development for company website.
 
-    __Process Improvement:__ Developed a SharePoint portal for 6+ agencies that reduced reporting lag from 1 week to 1 day. Completion allowed for streamlined report tracing, improved communications, and established new standard for reporting.
+* __Process Improvement:__ Developed a SharePoint portal for 6+ agencies that reduced reporting lag from 1 week to 1 day. Completion allowed for streamlined report tracing, improved communications, and established new standard for reporting.
 
-    __Project Leadership:__ Established project management process and timeline to lead transition to new website. Project involved coordination with web developers, staff, and content contributors. Transition completed on time with no miscommunication.
+* __Project Leadership:__ Established project management process and timeline to lead transition to new website. Project involved coordination with web developers, staff, and content contributors. Transition completed on time with no miscommunication.
 
-    __Business Expansion:__ Authored technical and managerial sections in federal government contract proposals and contacted potential business leads to develop opportunities for the company.
+* __Business Expansion:__ Authored technical and managerial sections in federal government contract proposals and contacted potential business leads to develop opportunities for the company.
 
-    __Internal Communications:__ Increased productivity and teamwork by liaising with external federal organizations to establish methods and procedures for sharing information.
+* __Internal Communications:__ Increased productivity and teamwork by liaising with external federal organizations to establish methods and procedures for sharing information.
 
 __Program Manager,__ Department of the Army Headquarters, The Pentagon ▪ Washington, DC (2012–2013)
 Tasked with creating development program for military personnel, which supports the U.S. Army's Regionally Aligned Forces Plan for future organizational structures and international partnership opportunities.
 
-    __Research & Stakeholder Support:__ Authored white paper, plan, and cost-benefit analysis outlining program development plan. 
+* __Research & Stakeholder Support:__ Authored white paper, plan, and cost-benefit analysis outlining program development plan. 
 
-    __Strategic Planning:__ Developed training and recruiting plan to support 3 Combatant Commands to maximize training ROI and minimize vacancies for 6-9, 3-year rotational staff positions. 
+* __Strategic Planning:__ Developed training and recruiting plan to support 3 Combatant Commands to maximize training ROI and minimize vacancies for 6-9, 3-year rotational staff positions. 
 
 __Program Manager,__ Command Language Program (CLP), Circinus, LLC ▪ Fort Meade, MD (2009–2011)
 Recruited to improve the 704th Military Intelligence Brigade’s CLP, comprised of 200+ linguists proficient in 13+ foreign languages supporting intelligence operations for the U.S. Army and DoD at the National Security Agency (NSA). Led team of 6, wrote Standard Operating Procedures, managed $300K budget as well as composed and analyzed monthly financial reports.
 
-    __Turnaround Success:__ Transformed worst language program into best out of more than 50 globally-based programs and won recognition as DoD Command Language Program of the Year (2011)—the highest award possible in the DoD. 
+* __Turnaround Success:__ Transformed worst language program into best out of more than 50 globally-based programs and won recognition as DoD Command Language Program of the Year (2011)—the highest award possible in the DoD. 
 
-    __Project Efficiency:__ Utilized account tracking files to keep real-time budget status. Improved ROI by decreasing cost per person to train while still increasing overall language proficiency.
+* __Project Efficiency:__ Utilized account tracking files to keep real-time budget status. Improved ROI by decreasing cost per person to train while still increasing overall language proficiency.
 
-    __Administrative Efficiency:__  Overhauled systems to streamline action in multiple areas. Training enrollments decreased from 12 to 3 weeks, bonus payment processing decreased from 15 weeks to <30 days, and test scheduling decreased from 3 weeks to 1.
+* __Administrative Efficiency:__  Overhauled systems to streamline action in multiple areas. Training enrollments decreased from 12 to 3 weeks, bonus payment processing decreased from 15 weeks to <30 days, and test scheduling decreased from 3 weeks to 1.
 
 __Russian Cryptologic Linguist/Intelligence Analyst,__ U.S. Army ▪ Multiple Foreign Locations (2000–2009)
 Served as a Russian linguist and intelligence analyst in support of national and theater-level operations for the U.S. Army. Performed in leadership and management positions from Team Leader to Platoon Sergeant managing operations, administrative matters, training, and morale for groups ranging in size from 5-47 personnel. 
 
-    __Communication & Support:__ Interpreted for general officers during two separate U.S. / Russian Joint Training Exercises in Germany and Russia (2005). Provided real-time, tactical intelligence support to combat operations while deployed to Iraq (May 2003-July 2004).
+* __Communication & Support:__ Interpreted for general officers during two separate U.S. / Russian Joint Training Exercises in Germany and Russia (2005). Provided real-time, tactical intelligence support to combat operations while deployed to Iraq (May 2003-July 2004).
 
 ## Education ##
 
