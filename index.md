@@ -21,15 +21,15 @@ __Languages:__ Russian & English
 __Social Media Marketing Director/Owner,__ Lasting Impressions Marketing, LLC ▪ Weston, FL (2014–Present)
 Conduct analysis and research to identify competition, trends, and opportunities for clients in diversity of industries. Develop social media campaigns and strategies congruent with clients' goals. Spearhead content production, branding, and customer engagement.
 
-__▪ Website Development:__ Designed, programmed and launched websites and web applications for small business owner customers using Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, JQuery software programming languages and frameworks.
+>__▪ Website Development:__ Designed, programmed and launched websites and web applications for small business owner customers using Ruby on Rails, HTML, CSS, Bootstrap, JavaScript, JQuery software programming languages and frameworks.
 
-__▪ Digital Campaigns:__ Created 5 websites using commercial platform and strategically integrated social media platforms to develop client brand and improve SEO. Raised $5K for local non-profits by positioning unique content on a variety of social media.
+>__▪ Digital Campaigns:__ Created 5 websites using commercial platform and strategically integrated social media platforms to develop client brand and improve SEO. Raised $5K for local non-profits by positioning unique content on a variety of social media.
 
-__▪ Marketing & Product Development:__ Partnered with MBA professor on online course creation from conception to launch using Kajabi. Produced video elements and marketing plan to target business professionals, entrepreneurs, and transitioning military personnel who want to better understand P&L, cash flow, and profitability.
+>__▪ Marketing & Product Development:__ Partnered with MBA professor on online course creation from conception to launch using Kajabi. Produced video elements and marketing plan to target business professionals, entrepreneurs, and transitioning military personnel who want to better understand P&L, cash flow, and profitability.
 
-__▪ Consumer Engagement:__ Utilized interviewing to analyze unique business structure and needs as well as develop inbound marketing strategy. Created scripts, video, and launched video campaigns via YouTube, websites, and other social media outlets.
+>__▪ Consumer Engagement:__ Utilized interviewing to analyze unique business structure and needs as well as develop inbound marketing strategy. Created scripts, video, and launched video campaigns via YouTube, websites, and other social media outlets.
 
-__▪ Business Consulting:__ Established comprehensive go-to-market strategies for 8 small businesses. Provided basic legal guidance regarding business filings and utilized market research to assist in unique and targeted brand development.
+>__▪ Business Consulting:__ Established comprehensive go-to-market strategies for 8 small businesses. Provided basic legal guidance regarding business filings and utilized market research to assist in unique and targeted brand development.
 
 __Board of Directors,__ Capistrano by the Square ▪ Weston, FL (2006–Present)
 Served in every role from President, VP, Secretary, and Treasurer to lead operational management of 47-unit condo community.
